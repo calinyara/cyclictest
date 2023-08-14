@@ -1,6 +1,5 @@
 /*
- * dtop: A tool for measuring system utilization of applications
- *       and system performance.
+ * cyclictest in Rust
  *
  * SPDX-License-Identifier: GPL-2.0
  *
